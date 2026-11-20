@@ -1,12 +1,13 @@
 # Mon journal de veille
 
-## 13/11/2026 — Baseline
+## 20/11/2026 — 
 
 - **Source** : [github.com](https://github.com/tc39/notes/blob/HEAD/meetings/2023-01/jan-30.md#change-array-by-copy) — github 
 - **Ce que j'ai appris** : le TC39 est le comité technique d’Ecma International qui fait évoluer ECMAScript ; une proposition passe par des étapes (stages) de 0 à 4 ; au stage 4, elle est terminée et entre dans la norme de l’année. toSorted vient de Change Array by Copy, année de publication prévue 2023 (liste vérifiée le 10/11/2026), avec toReversed, toSpliced et with.
 - **Pourquoi c'est utile pour un développeur web** : .
 - **Ce que je vais faire ou vérifier** : .
 
+## 13/11/2026 — Baseline
 
 - **Source** : [Baseline (compatibility)](https://developer.mozilla.org/fr/docs/Glossary/Baseline/Compatibility) — MDN 
 - **Ce que j'ai appris** : Baseline prend en compte la prise en charge dans sértin navigateurs. c'est un résumé de la compatibilité des navigateurs
